@@ -434,7 +434,6 @@ const goToMailings = ({ mailinfo }: { mailinfo: string }) => {
   max-width: 100% !important;
   overflow: hidden;
   min-height: 150px;
-  padding: 4px;
 }
 
 .v-card {

@@ -41,7 +41,7 @@ if (error.value) {
 
 <template>
   <v-row>
-    <v-col
+    <v-col  style="padding: 17px"
       v-for="(item, index) in items"
       :key="index"
       cols="12"
